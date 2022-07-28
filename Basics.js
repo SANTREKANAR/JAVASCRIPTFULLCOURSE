@@ -20,7 +20,7 @@
 
 // var result = sellingPrice< listingPrice;
 // console.log(result)
-
+//
 // var temperature = 29;
 // if (temperature = 20) {
 //     console.log('Hello tenperature is less today');
