@@ -98,4 +98,4 @@ var getUserRole = function(name,role){
     }
 }
 
-console.log(getUserRole("samy","admin"));
+console.log(getUserRole("samy","admins"));
